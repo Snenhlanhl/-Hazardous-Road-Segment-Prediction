@@ -198,10 +198,11 @@ After completing this project, you will understand:
 
 ## Author
 
-**Sinenhlanhla Nsele**
-**Nonhlanhla Magalula**
-**Thandiwe Mkhabela**
-**Seema Thabiso**
+- **Authors**
+  - Sinenhlanhla Nsele  
+  - Nonhlanhla Magalula  
+  - Thandiwe Mkhabela  
+  - Seema Thabiso
 
 ---
 
